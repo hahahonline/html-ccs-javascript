@@ -1,0 +1,12 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>3 Island</title> 
+</head> 
+<body> 
+<h1> </h1> 
+<img src='island.jpg'; width =80> 
+<img src='island.jpg'; width =100> 
+<img src='island.jpg'; width =50> 
+</body> 
+</html>
