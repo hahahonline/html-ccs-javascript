@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Cat tag</title>
+    </head>
+    <body>
+        <img src="https://i.imgur.com/jQ1jJu1.jpeg" width="200" height="200">
+
+        <img src="https://i.imgur.com/jQ1jJu1.jpeg" width="400" height="400">
+
+        <img src="https://i.imgur.com/jQ1jJu1.jpeg" width="600" height="600">
+    </body>
+</html>
